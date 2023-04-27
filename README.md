@@ -1,6 +1,7 @@
 # Drone-Project
 🌎 This is a <b>Hobby Drone</b> made by <b>[PranavVerma-droid](https://web.craftingrealm.tk)</b>. 🌎 <br><br>
-=> <b>P.S. This is a Hobby Drone, and it doesn't fly for very long (Approx. 5 Minutes) and it cannot take any more load</b>.
+=> <b>P.S. This is a Hobby Drone, and it doesn't fly for very long (Approx. 5 Minutes) and it cannot take any more load</b>. <br>
+=> This Drone has been build <b>UNDER 7$ (USD) </b>!!.
 
 Here is what I did to Get it to fly: <br>
 1. I Made a Custom PCB and Ordered it with [PCBWay](https://www.pcbway.com) (The File for that is Private - Sorry!)
@@ -81,6 +82,4 @@ https://user-images.githubusercontent.com/73458565/234993466-746cd578-5364-4113-
 ![photo_2023-04-28_02-15-47](https://user-images.githubusercontent.com/73458565/234994048-81a56402-5237-404e-ac1d-832e5dd324f2.jpg)
 
 
-
-
-
+<b>This Code has been [Licensed](LICENSE).
