@@ -8,6 +8,8 @@ Here is what I did to Get it to fly: <br>
 2. I took out a old Li-ion Battery from a Old Electronics Car.
 3. I Ordered a IR Remote Controller and a IR Receiver.
 4. I Re-used the Batterry charger that came with the Car.
+5. I also found some Motor Protectors/Bumpers (White Things) To protect the Blades.
+6. I mounted the PCB on some cut IceCream Sticks.
 
 MultiWii Config Can be Found [Here](https://github.com/PranavVerma-droid/Drone-Project/blob/main/Code%20(MultiWii)/MultiWiiConf/MultiWiiConf.pde).
 ```
