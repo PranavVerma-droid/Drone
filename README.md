@@ -1,6 +1,7 @@
 # Drone-Project
 🌎 This is a <b>Hobby Drone</b> made by <b>[PranavVerma-droid](https://web.craftingrealm.tk)</b>. 🌎 <br><br>
 => <b>P.S. This is a Hobby Drone, and it doesn't fly for very long (Approx. 5 Minutes) and it cannot take any more load</b>. <br>
+=> Please Check the [Releases](https://github.com/PranavVerma-droid/Drone-Project/releases) Tab for the Latest Release of the Project. <br>
 => This Drone has been build <b>UNDER 7$ (USD) </b>!!.
 
 Here is what I did to Get it to fly: <br>
